@@ -1,0 +1,17 @@
+.bannar{
+    background-image: url("../images/image1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    z-index: -1;
+}
+.bage{
+    background-image: url("../images/image1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+    background-attachment: fixed;
+    background-color: rgba(41, 41, 42, 0.5);
+}
